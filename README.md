@@ -36,11 +36,11 @@
 ### 下載
 
 - 請 [點我](https://github.com/justfont/AllPunType/releases/tag/1.0) 前往下載頁面。
-- 或是點選本頁面右側「Releases」處的最新發行版本，下載以 **AllPunType** 開頭的 otf 字型檔案安裝（是的，英文名稱又是爛諧音）。
+- 或是點選本頁面右側「Releases」處的最新發行版本，按照自己的需求下載以 **AllPunType** 開頭的 otf 字型檔案安裝（是的，英文名稱又是爛諧音）。
 
-### 使用軟體
+### 使用
 
-- Pages, Keynote, Adobe Illustrator, Adobe Photoshop, Microsoft Word,下筆, Procreate, InShot 等多數圖像影音編輯與文書軟體：皆可正確顯示所有替換功能。
+- Pages, Keynote, Adobe Illustrator, Adobe Photoshop, Microsoft Word, [下筆](https://apps.apple.com/tw/app/下筆-質感繁中文編輯/id1627492456), Procreate, InShot 等多數圖像影音編輯與文書軟體：皆可正確顯示所有替換功能（部分軟體需手動開啟連字樣式功能）。
 - Microsoft Excel, Microsoft PowerPoint：英文替換無法使用。
 
 ## 支援顯示文字

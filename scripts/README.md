@@ -12,9 +12,9 @@
      2. The common pronunciation is related to another zodiac animals, in which case it should be overwritten during replacement. Generate `chars_to_overwrite.json` table.
         - `屬` (`U+5C6C`) can be pronounced as `ㄕㄨˇ` (similar to `鼠`) and `ㄓㄨˇ` (similar to `豬`), with the former being more commonly used than the latter.
         - `朱` (`U+6731`) can be pronounced as `ㄓㄨˊ` (similar to `豬`) and `ㄕˊ` (similar to `鼠`), with the former being more commonly used than the latter. The latter pronunciation is only used in `朱提` as an ancient Han commandery name near Yibin, Sichuan (*四川省宜賓縣*).
-3. Consider the Kana (*仮名*) case, including Hirakana (*平仮名*), Katakana (*片仮名*), and glyphs with `.vert` suffix.
+3. Consider the Kana (*仮名*) cases: including Hirakana (*平仮名*), Katakana (*片仮名*), and glyphs with `.vert` suffix.
    - Generate `chars_to_replace_kana.json` tables.
-4. Run `replace.py` in Glyphs.
+4. Run `replace.py` in [Glyphs](https://glyphsapp.com/) to replace glyphs.
 5. Add `liga`, `calt`, `ss01`, `salt` features as necessary. 
 6. Export the instance as the font.
 
@@ -26,18 +26,25 @@
 ## Ligature (liga)
 
 ```afdko
-sub [N n] [E e] [W w] by uni725B;
-sub [W w] [H h] [O o] by uni864E; 
-sub [T t] [O o] [O o] by uni5154;
-sub [T t] [O o] by uni5154;
+sub [Y y] [O o] [U u] [N n] [G g] by uni7F8A;
+sub [S s] [H h] [O o] [O o] by uni9F20;
 sub [R r] [O o] [N n] [G g] by uni9F8D;
 sub [L l] [O o] [N n] [G g] by uni9F8D;
+sub [N n] [E e] [W w] by uni725B;
+sub [N n] [E e] [U u] by uni725B;
+sub [W w] [H h] [O o] by uni864E; 
+sub [T t] [O o] [O o] by uni5154;
 sub [R r] [O o] [N n] by uni9F8D;
 sub [L l] [O o] [N n] by uni9F8D;
+sub [F f] [O o] [O o] by uni864E;
 sub [S s] [U u] [R r] by uni86C7;
 sub [S s] [I i] [R r] by uni86C7;
 sub [S s] [E e] [R r] by uni86C7;
-sub [Y y] [O o] [U u] [N n] [G g] by uni7F8A;
+sub [M m] [A a] [R r] by uni9EBB;
+sub [H h] [O o] [R r] by uni7334;
+sub [T t] [O o] by uni5154;
+sub [M m] [A a] by uni9EBB;
+sub [S s] [U u] by uni9F20;
 sub [H h] [O o] by uni7334;
 sub [G g] [O o] by uni72D7;
 ```
