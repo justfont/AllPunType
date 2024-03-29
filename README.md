@@ -1,8 +1,12 @@
-
+<div align="center">
 
 # 諧靈附體 AllPunType
 
 ![](assets/banner.gif)
+
+使用 **諧靈附體** ，你必須諧音，只能諧音。
+
+</div>
 
 ## 計畫緣起
 
@@ -14,12 +18,14 @@
 
 我們將所有生肖的相近音漢字，全部替換成生肖本字。如：「使、書、死、叔、蘇⋯⋯」打字出來會是「鼠」，「榮、隆、攏、農、弄⋯⋯」會變成「龍」。順帶一提，常見英語諧音及日文五十音如「surprise! 」、「すごい！」，也會被顯示成「蛇prise! 」、「鼠狗い！」，滿足國人對諧音喪心病狂的熱愛。
 
-> 使用**諧靈附體.ttf ，**你必須諧音，只能諧音。
+
 
 
 ## 規格簡介
 
-**「諧靈附體」** 是基於源流明體字型改作，由 [justfont](https://justfont.com/) 的團隊製作，包含 7 種字重的字型家族。透過於字符碼位替換字形並輔以 OpenType 技術，製作出輸入「近音字」時，就會顯示出「生肖動物字」的開源繁體中文字型。十二生肖收錄齊全，萬年可用。年節將至或生活不順（？）時，皆可使用本字型進行靈感發想，或煩死朋友。
+**「諧靈附體」** 是基於源流明體字型改作，由 [justfont](https://justfont.com/) 的團隊製作，包含 7 種字重的字型家族。
+
+透過於字符碼位替換字形並輔以 OpenType 技術，製作出輸入「近音字」時，就會顯示出「生肖動物字」的開源繁體中文字型。十二生肖收錄齊全，萬年可用。年節將至或生活不順（？）時，皆可使用本字型進行靈感發想，或煩死朋友。
 
 本字型以 SIL Open Font License 1.1 授權釋出，歡迎大家自由應用，並分享給你所有的朋友。
 
@@ -27,17 +33,17 @@
 
 ### 下載
 
-- 請點我前往下載頁面。
-- 或是點選本頁面右側「Releases」處的最新發行版本，下載 **AllPunType.otf** 安裝（是的，英文名稱又是爛諧音）。
+- 請 [點我](https://github.com/justfont/AllPunType/releases/tag/1.0) 前往下載頁面。
+- 或是點選本頁面右側「Releases」處的最新發行版本，下載以 **AllPunType** 開頭的 otf 字型檔案安裝（是的，英文名稱又是爛諧音）。
 
 ### 使用軟體
 
-- **Pages, Keynote, Adobe Illustrator, Adobe Photoshop, Microsoft Word,下筆, Procreate, InShot** 等多數圖像影音編輯與文書軟體：皆可正確顯示所有替換功能。
-- **Microsoft Excel, Microsoft PowerPoint：**英文替換無法使用。
+- Pages, Keynote, Adobe Illustrator, Adobe Photoshop, Microsoft Word,下筆, Procreate, InShot 等多數圖像影音編輯與文書軟體：皆可正確顯示所有替換功能。
+- Microsoft Excel, Microsoft PowerPoint：英文替換無法使用。
 
 ## 支援顯示文字
 
-**諧靈附體**收錄讀音轉換字參考＿＿＿表，並由 justfont 團隊工人智慧增加日語、英語，並排除不常用的破音漢字。收錄讀音表請見[傳送門](https://docs.google.com/spreadsheets/d/1_DLkmWgDF4cJQAhlMe-ppDrK4M-BeX_3S09y9bl_09U/edit?usp=sharing)。
+收錄讀音表請見[傳送門](https://docs.google.com/spreadsheets/d/1_DLkmWgDF4cJQAhlMe-ppDrK4M-BeX_3S09y9bl_09U/edit?usp=sharing)，並由 justfont 團隊工人智慧增加日語、英語，並排除不常用的破音漢字。
 
 理論上**諧靈附體**可無限期應用，但因 justfont 人力與時間有限，目前暫無規劃確切更新時程，還請見諒。也歡迎有志之士自行改作新款開源字型釋出。
 
@@ -66,7 +72,7 @@
 
 ## 免費使用、敬請分享
 
-**諧靈附體.otf** 改作於 [@ButTaiwan](https://github.com/ButTaiwan) 發佈的 [源流明體](https://github.com/ButTaiwan/genryu-font) 開源專案，並基於 SIL Open Font License 1.1 開源協議授權釋出。
+**諧靈附體** 改作於 [@ButTaiwan](https://github.com/ButTaiwan) 發佈的 [源流明體](https://github.com/ButTaiwan/genryu-font) 開源專案，並基於 SIL Open Font License 1.1 開源協議授權釋出。
 
 您可以放心地：
 
