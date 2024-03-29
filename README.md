@@ -2,6 +2,8 @@
 
 # 諧靈附體 AllPunType
 
+![](https://img.shields.io/github/v/release/justfont/AllPunType?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square)  ![](https://img.shields.io/github/release-date/justfont/AllPunType?label=最後更新&style=flat-square&color=red) ![](https://img.shields.io/badge/授權方式-OFL%201.1-yellow?style=flat-square) ![](https://img.shields.io/github/forks/justfont/AllPunType?style=flat-square&color=green) ![](https://img.shields.io/github/stars/justfont/AllPunType?style=flat-square&color=yellowgreen)
+
 ![](assets/banner.gif)
 
 使用 **諧靈附體** ，你必須諧音，只能諧音。
@@ -16,7 +18,7 @@
 
 ## 使用效果是？
 
-我們將所有生肖的相近音漢字，全部替換成生肖本字。如：「使、書、死、叔、蘇⋯⋯」打字出來會是「鼠」，「榮、隆、攏、農、弄⋯⋯」會變成「龍」。順帶一提，常見英語諧音及日文五十音如「surprise! 」、「すごい！」，也會被顯示成「蛇prise! 」、「鼠狗い！」，滿足國人對諧音喪心病狂的熱愛。
+我們將所有生肖的相近音漢字，全部替換成生肖本字。如：「使、書、死、叔、蘇⋯⋯」打字出來會是「`鼠`」；「榮、隆、攏、農、弄⋯⋯」會變成「`龍`」。順帶一提，常見英語諧音及日文五十音如「surprise! 」、「すごい！」，也會被顯示成「`蛇prise!`」、「`鼠狗い！`」，滿足國人對諧音喪心病狂的熱愛。
 
 
 
@@ -111,3 +113,4 @@ justfont 相信字體的價值，更相信好的字體能啟發社會。除了�
 # 免責事項
 
 本字型基於開源授權釋出，對本字型的下載、安裝、與安裝後相關之問題，及可能導致之一切可能損害，justfont 皆不承擔相關責任。
+
