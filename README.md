@@ -2,7 +2,7 @@
 
 # 諧靈附體 AllPunType
 
-![](https://img.shields.io/github/v/release/justfont/AllPunType?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square)  ![](https://img.shields.io/github/release-date/justfont/AllPunType?label=最後更新&style=flat-square&color=red) ![](https://img.shields.io/badge/授權方式-OFL%201.1-yellow?style=flat-square) ![](https://img.shields.io/github/forks/justfont/AllPunType?style=flat-square&color=green) ![](https://img.shields.io/github/stars/justfont/AllPunType?style=flat-square&color=yellowgreen)
+![](https://img.shields.io/github/v/release/justfont/AllPunType?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/AllPunType/total?label=總下載數&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/AllPunType?label=最後更新&style=flat-square&color=red) ![](https://img.shields.io/badge/授權方式-OFL%201.1-yellow?style=flat-square) ![](https://img.shields.io/github/forks/justfont/AllPunType?style=flat-square&color=green) ![](https://img.shields.io/github/stars/justfont/AllPunType?style=flat-square&color=yellowgreen)
 
 ![](assets/banner.gif)
 
